@@ -1,6 +1,2 @@
-## 안녕하세요 👋
-
-Top Languages & Git Stats
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangma27)](https://github.com/anuraghazra/github-readme-stats)
-[![mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwangma27)](https://github.com/anuraghazra/github-readme-stats)
+![languages](https://github.com/user-attachments/assets/bddc3089-0b8f-4f49-9368-ddab682a4745)
+![overview](https://github.com/user-attachments/assets/f18f4f81-d2b0-4800-b1da-ba3b202ece17)
